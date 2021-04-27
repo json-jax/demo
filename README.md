@@ -4,4 +4,8 @@ This is simple readme file
 
 ## Heading number 2
 
-This is bound to make trouble
+just Something Going on
+
+Update in STAGE
+
+More Changes in our working Directory
